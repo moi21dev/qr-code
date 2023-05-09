@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-first-try-A6oSS8e_je)
-- Live Site URL: [Add live site URL here](https://moi21dev.github.io/qr-code/)
+- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-first-try-A6oSS8e_je)
+- Live Site URL: [Github Pages](https://moi21dev.github.io/qr-code/)
 
 ## My process
 
